@@ -14,3 +14,5 @@ Natalie George
 ## Map Coordinate Basics
 
 - [Understanding map coordinates]()
+
+- [Understanding band composites]
