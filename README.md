@@ -16,3 +16,7 @@ Natalie George
 
 - [Understanding map coordinates](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/Week_03_coordinates_assignment.ipynb)
 - [Understanding band composites](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/geo441_541_understand_band_composite.ipynb)
+
+## Spatial Analysis
+
+- [How to turn 2D polygons into 3D and add texture](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Week_11_Extra_Credit_Spatial_Analysis_How_To.ipynb)
