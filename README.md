@@ -21,3 +21,7 @@ Natalie George
 
 - [Using polygon buffers to understand spatial relationships between features](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Week_10_assignment.ipynb)
 - [How to turn 2D polygons into 3D and add texture](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Week_11_Extra_Credit_Spatial_Analysis_How_To.ipynb)
+
+## Web-based Mapping
+
+- [An example of a web-based app showcasing Snow's 1854 Cholera Outbreak map](https://arcg.is/1mfSCH0)
