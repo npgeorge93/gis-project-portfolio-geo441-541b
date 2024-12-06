@@ -26,4 +26,4 @@ Natalie George
 ## Web-based Mapping
 
 - [An example of a web-based app showcasing Snow's 1854 Cholera Outbreak map](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b3579020ce3644f4a3da012358e44e8f)
-*test* 
+
