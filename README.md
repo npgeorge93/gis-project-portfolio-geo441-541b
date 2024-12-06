@@ -14,7 +14,7 @@ Natalie George
 - [Understanding map frames](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Understanding_map_frames.ipynb)
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/Week_03_coordinates_assignment.ipynb)
+- [Understanding map coordinates](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/Understanding_map_coordinates.ipynb)
 - [Understanding band composites](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/geo441_541_understand_band_composite.ipynb)
 
 ## Spatial Analysis
@@ -26,4 +26,8 @@ Natalie George
 ## Web-based Mapping
 
 - [An example of a web-based app showcasing Snow's 1854 Cholera Outbreak map](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=b3579020ce3644f4a3da012358e44e8f)
+
+## Strategic Design
+
+- [Using color bands and boundaries for elevation and hydrography data](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/strategic-design/Mapping_digital_elevation_and_hydrology_data.ipynb)  
 
