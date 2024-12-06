@@ -19,9 +19,9 @@ Natalie George
 
 ## Spatial Analysis
 
-- [Using polygon buffers to understand spatial relationships between features](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Week_10_assignment.ipynb)
-- [How to turn 2D polygons into 3D and add texture](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Week_11_Extra_Credit_Spatial_Analysis_How_To.ipynb)
-- [Using table join to extract data (like Census data) from multiple sources to inform maps](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Week_12_assignment.ipynb)
+- [Using polygon buffers to understand spatial relationships between features](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Spatial_analysis_for_vector_data.ipynb)
+- [How to turn 2D polygons into 3D and add texture](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Multipatching_textures.ipynb)
+- [Using table join to extract data (like Census data) from multiple sources to inform maps](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis/Working_with_census_data_for_spatial_analysis.ipynb)
 
 ## Web-based Mapping
 
