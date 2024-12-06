@@ -10,12 +10,16 @@ Natalie George
 
 - [First map in ArcGIS Pro](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/An_introduction_to_ArcGIS_Pro.ipynb)
 - [Making queries and mapping results](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Making_queries_and_mapping_results.ipynb)
-- [Create a new repository](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Creating_first_repository.ipynb)
 - [Understanding map frames](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Understanding_map_frames.ipynb)
+- 
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/Understanding_map_coordinates.ipynb)
 - [Understanding band composites](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/geo441_541_understand_band_composite.ipynb)
+
+## Organizing Data
+
+- [Creating your first repository](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/organizing-data/Creating_your_first_repository.ipynb)
 
 ## Spatial Analysis
 
