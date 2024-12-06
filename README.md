@@ -9,9 +9,9 @@ Natalie George
 ## Basic Mapping
 
 - [First map in ArcGIS Pro](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/An_introduction_to_ArcGIS_Pro.ipynb)
-- [Map the age index based on 2000 census data](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Making_queries_and_mapping_results.ipynb)
+- [Making queries and mapping results](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Making_queries_and_mapping_results.ipynb)
 - [Create a new repository](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Creating_first_repository.ipynb)
-- [Understanding map frames](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Week_02_data_model_assignment.ipynb)
+- [Understanding map frames](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/base-mapping/Understanding_map_frames.ipynb)
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/npgeorge93/gis-project-portfolio-geo441-541b/blob/main/remote-sensing-basics/Week_03_coordinates_assignment.ipynb)
